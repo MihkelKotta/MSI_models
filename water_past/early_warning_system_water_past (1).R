@@ -50,7 +50,7 @@
 # ecological thresholds. Fill/enable ERGOM rules in native units before using them.
 
 SETTINGS <- list(
-  INPUT_DIR = "Z:/Data/MSI_models/early warning system water/final_script_past/EST05_physics_daily_monthly",                         # Folder containing the three RDS types
+  INPUT_DIR = "Z:/Data/MSI_models/early warning system water/final_script_past/rds",                         # Folder containing the three RDS types
   GRID_RDS = "MSI_coastal_grid.rds",        # Relative to this script
   CONFIG_CSV = "alert_config_water_past.csv",
   OUTPUT_DIR = "water_past_output_new",
